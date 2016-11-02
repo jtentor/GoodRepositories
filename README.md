@@ -1,5 +1,5 @@
 # GoodRepositories
-Good Repositories that not need to fork but never forgott
+Good Repositories that not need to fork but never forgotten
 
 
 ## [Best Android Gists](https://github.com/lopspower/BestAndroidGists)
